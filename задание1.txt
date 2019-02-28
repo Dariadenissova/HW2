@@ -1,0 +1,20 @@
+<TEI>
+    <teiHeader>  
+        <fileDesc>
+            <titleStmt>
+              <title>Кавказские повести</title>
+				<author>А.А. Бестужев-Марлинский</author>
+            </titleStmt>
+            <respStmt>
+                <persName>Денисова Дарья</persName>
+                <resp>Что делал с документов (создание TEI документа, выделение в тексте прямой речи)</resp>
+            </respStmt>
+         </fileDesc>
+    </teiHeader>
+	<text>    
+        <text><speech> 
+		<said type="direct" aloud="true"> <said who="id" дядя><speech_verb_semantic="state" Жарко,душно</speech_verb_semantic="state"><said corresp="id"Касим><speech_verb_semantic="question">Не краснеет</speech_verb semantic="question">запад,<speech_verb semantic="question"не собираются</speech_verb semantic="question">тучи...</said who="id" дядя></said> 
+	<said type="direct" aloud="true"><said who="id"Касим><speech_verb emotion="no">Нет,...солнце упало ярко!...</speech_verb emotion="no"></said who="id"Касим></said> 
+		</text></speech>
+	</text>	
+</TEI>
